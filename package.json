@@ -5,12 +5,13 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon server.js"
-}, 
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
+    "mongodb": "^6.6.1",
     "mongoose": "^8.3.4"
   }
 }
