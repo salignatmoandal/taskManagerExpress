@@ -7,5 +7,6 @@ Creating a task manager express application using Node.js involves building a RE
 - Install necessary dependencies like Express.js for creating the server and handling HTTP requests.
 
 # Create the server 
--Set up an Express server to handle HTTP requests.
+- Set up an Express server to handle HTTP requests.
+- Listen on a specific port (e.g., 3000).
 
