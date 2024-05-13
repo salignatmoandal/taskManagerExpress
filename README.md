@@ -34,3 +34,8 @@ Creating a task manager express application using Node.js involves building a RE
     
     - Use middleware for parsing JSON request bodies, handling CORS (Cross-Origin Resource Sharing), logging, error handling, etc.
     - Implement middleware for error handling to catch and respond to errors uniformly.
+
+    Test Your Endpoints**:
+    
+    - Use tools like Postman or curl to test your endpoints and ensure they're functioning correctly.
+    - Test each CRUD operation to ensure they work as expected.
