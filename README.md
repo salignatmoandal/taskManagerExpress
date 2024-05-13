@@ -24,3 +24,8 @@ Creating a task manager express application using Node.js involves building a RE
     
     - Create controller functions for each route to handle the business logic.
     - These functions will interact with your data (e.g., in-memory array or database).
+
+    **Data Storage**:
+    
+    - Decide how you want to store tasks data. You can start with an in-memory array for simplicity or use a database like MongoDB, SQLite, or PostgreSQL.
+    - If using a database, integrate a database driver or ORM (Object-Relational Mapping) library into your project.
