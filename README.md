@@ -20,3 +20,7 @@ Creating a task manager express application using Node.js involves building a RE
         - `PATCH /tasks/:id` to update a task.
         - `DELETE /tasks/:id` to delete a task.
 
+ **Implement Controllers**:
+    
+    - Create controller functions for each route to handle the business logic.
+    - These functions will interact with your data (e.g., in-memory array or database).
