@@ -10,3 +10,13 @@ Creating a task manager express application using Node.js involves building a RE
 - Set up an Express server to handle HTTP requests.
 - Listen on a specific port (e.g., 3000).
 
+# Define Routes
+    
+    - Define routes for handling different CRUD operations on tasks.
+    - For example:
+        - `GET /tasks` to fetch all tasks.
+        - `GET /tasks/:id` to fetch a specific task by ID.
+        - `POST /tasks` to create a new task.
+        - `PATCH /tasks/:id` to update a task.
+        - `DELETE /tasks/:id` to delete a task.
+
